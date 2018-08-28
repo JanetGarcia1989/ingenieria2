@@ -56,6 +56,7 @@ public class SumarTest {
 		int resultado = c.sumar(-2,-3);
 		int esperado = -5;
 		assertEquals(esperado, resultado);
+		
 	}
 }
 
